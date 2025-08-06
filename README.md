@@ -1,8 +1,3 @@
-Here's a complete and professional `README.md` file for your **Smart Grocery List Manager** GitHub repository:
-
----
-
-````markdown
 # 🛒 Smart Grocery List Manager
 
 A modern, user-friendly desktop application built with Python, Tkinter, and `ttkbootstrap`, designed to help you efficiently manage grocery items and recipes.

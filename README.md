@@ -12,7 +12,9 @@ A modern, user-friendly desktop application built with Python, Tkinter, and `ttk
 
 ## 🖼️ Preview
 
-![App Screenshot](screenshot.png) <!-- Replace with actual image file if available -->
+<img width="699" height="538" alt="image" src="https://github.com/user-attachments/assets/fafdcc00-31de-42b2-bcdc-d996f9689099" />
+<img width="696" height="431" alt="image" src="https://github.com/user-attachments/assets/21fe6278-211e-468f-b000-8b51090ad7b2" />
+
 
 ## 🛠️ Tech Stack
 
